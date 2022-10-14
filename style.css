@@ -88,3 +88,12 @@ th {
 .th2-color {
     color: tomato;
 }
+
+fieldset {
+    width: 10%;
+}
+
+textarea {
+    width: 10%;
+    margin-top: 10px;
+}
